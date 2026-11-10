@@ -13,7 +13,7 @@ You will also need to install the following optional MSVC components: "Desktop d
 Then, from a DOS prompt:
 
 ``` shell
-git clone https://github.com/blitz-research/blitz3d_soloud.git
+git clone https://github.com/mingcc5240/2026Blitz3D
 cd blitz3d_soloud
 cmake -S . -B cmake-build-release -A Win32 -G "Visual Studio 17 2022"
 cmake --build cmake-build-release --config Release
