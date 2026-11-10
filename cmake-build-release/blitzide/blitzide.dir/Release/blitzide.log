@@ -1,0 +1,14 @@
+﻿  Building Custom Rule D:/Game/OneDayCode/blitz3d_soloud/blitzide/CMakeLists.txt
+  about.cpp
+  blitzide.cpp
+  editor.cpp
+  funclist.cpp
+  htmlhelp.cpp
+  libs.cpp
+  mainframe.cpp
+  prefs.cpp
+  stdafx.cpp
+  tabber.cpp
+  코드를 생성하고 있습니다...
+  blitzide.vcxproj -> D:\Game\OneDayCode\blitz3d_soloud\cmake-build-release\blitzide\Release\blitzide.exe
+  Copying blitzide output file "D:/Game/OneDayCode/blitz3d_soloud/cmake-build-release/blitzide/Release/blitzide.exe" to "D:/Game/OneDayCode/blitz3d_soloud/BLITZ3D_INSTALL/bin/ide.exe"

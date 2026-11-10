@@ -1,0 +1,354 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\FreeImage\BitmapAccess.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\FreeImage\Conversion.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\FreeImage\Conversion16_555.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\FreeImage\Conversion16_565.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\FreeImage\Conversion24.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\FreeImage\Conversion32.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\FreeImage\Conversion8.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\FreeImage\FreeImage.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\FreeImage\FreeImageIO.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\FreeImage\GetType.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\FreeImage\LoadFunctions.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\FreeImage\NNQuantizer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\FreeImage\Plugin.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\FreeImage\PluginBMP.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\FreeImage\PluginICO.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\FreeImage\PluginIFF.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\FreeImage\PluginJPEG.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\FreeImage\PluginKOALA.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\FreeImage\PluginMNG.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\FreeImage\PluginPCD.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\FreeImage\PluginPCX.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\FreeImage\PluginPNG.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\FreeImage\PluginPNM.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\FreeImage\PluginPSD.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\FreeImage\PluginRAS.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\FreeImage\PluginTARGA.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\FreeImage\PluginTIFF.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\FreeImage\PluginWBMP.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\FreeImage\WuQuantizer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibJPEG\jcapimin.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibJPEG\jcapistd.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibJPEG\jccoefct.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibJPEG\jccolor.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibJPEG\jcdctmgr.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibJPEG\jchuff.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibJPEG\jcinit.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibJPEG\jcmainct.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibJPEG\jcmarker.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibJPEG\jcmaster.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibJPEG\jcomapi.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibJPEG\jcparam.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibJPEG\jcphuff.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibJPEG\jcprepct.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibJPEG\jcsample.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibJPEG\jctrans.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibJPEG\jdapimin.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibJPEG\jdapistd.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibJPEG\jdatadst.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibJPEG\jdatasrc.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibJPEG\jdcoefct.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibJPEG\jdcolor.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibJPEG\jddctmgr.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibJPEG\jdhuff.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibJPEG\jdinput.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibJPEG\jdmainct.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibJPEG\jdmarker.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibJPEG\jdmaster.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibJPEG\jdmerge.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibJPEG\jdphuff.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibJPEG\jdpostct.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibJPEG\jdsample.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibJPEG\jdtrans.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibJPEG\jerror.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibJPEG\jfdctflt.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibJPEG\jfdctfst.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibJPEG\jfdctint.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibJPEG\jidctflt.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibJPEG\jidctfst.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibJPEG\jidctint.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibJPEG\jidctred.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibJPEG\jmemmgr.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibJPEG\jmemnobs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibJPEG\jquant1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibJPEG\jquant2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibJPEG\jutils.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibPNG\png.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibPNG\pngerror.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibPNG\pnggccrd.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibPNG\pngget.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibPNG\pngmem.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibPNG\pngpread.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibPNG\pngread.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibPNG\pngrio.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibPNG\pngrtran.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibPNG\pngrutil.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibPNG\pngset.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibPNG\pngtest.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibPNG\pngtrans.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibPNG\pngvcrd.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibPNG\pngwio.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibPNG\pngwrite.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibPNG\pngwtran.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibPNG\pngwutil.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\ZLib\adler32.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\ZLib\compress.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\ZLib\crc32.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\ZLib\deflate.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\ZLib\gzio.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\ZLib\infblock.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\ZLib\infcodes.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\ZLib\inffast.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\ZLib\inflate.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\ZLib\inftrees.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\ZLib\infutil.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\ZLib\trees.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\ZLib\uncompr.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\ZLib\zutil.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\FreeImage.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\FreeImageIO.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\Plugin.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\Quantizers.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\Utilities.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{C0BF9F57-3014-3F06-B4C1-B5BF22959E94}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{82600652-D487-3D36-9F40-EC6F58AD23BC}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

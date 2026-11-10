@@ -1,0 +1,6 @@
+﻿  Building Custom Rule D:/Game/OneDayCode/blitz3d_soloud/blitz/CMakeLists.txt
+  libs.cpp
+  main.cpp
+  코드를 생성하고 있습니다...
+  blitz.vcxproj -> D:\Game\OneDayCode\blitz3d_soloud\cmake-build-release\blitz\Release\blitz.exe
+  Copying blitz output file "D:/Game/OneDayCode/blitz3d_soloud/cmake-build-release/blitz/Release/blitz.exe" to "D:/Game/OneDayCode/blitz3d_soloud/BLITZ3D_INSTALL/bin/blitzcc.exe"

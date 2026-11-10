@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Solution>
+	<Configurations>
+		<BuildType Name="Debug"/>
+		<BuildType Name="Release"/>
+		<BuildType Name="MinSizeRel"/>
+		<BuildType Name="RelWithDebInfo"/>
+		<Platform Name="Win32"/>
+	</Configurations>
+	<Project Path="ALL_BUILD.vcxproj" Type="8bc9ceb8-8b4a-11d0-8d11-00a0c91bc942" Id="38448ca8-4041-3d80-ace2-30de1caa6169" DefaultStartup="true">
+		<BuildDependency Project="ZERO_CHECK.vcxproj"/>
+		<BuildDependency Project="bblaunch/bblaunch.vcxproj"/>
+		<BuildDependency Project="bbruntime/bbruntime.vcxproj"/>
+		<BuildDependency Project="bbruntime_dll/bbruntime_dll.vcxproj"/>
+		<BuildDependency Project="blitz/blitz.vcxproj"/>
+		<BuildDependency Project="blitz3D/blitz3d.vcxproj"/>
+		<BuildDependency Project="blitzide/blitzide.vcxproj"/>
+		<BuildDependency Project="compiler/compiler.vcxproj"/>
+		<BuildDependency Project="config/config.vcxproj"/>
+		<BuildDependency Project="debugger/debugger.vcxproj"/>
+		<BuildDependency Project="freeimage/freeimage.vcxproj"/>
+		<BuildDependency Project="gxruntime/gxruntime.vcxproj"/>
+		<BuildDependency Project="linker/linker.vcxproj"/>
+		<BuildDependency Project="linker_dll/linker_dll.vcxproj"/>
+		<BuildDependency Project="soloud/soloud.vcxproj"/>
+		<BuildDependency Project="stdutil/stdutil.vcxproj"/>
+		<Build Solution="Debug|*" Project="false"/>
+		<Build Solution="Release|*" Project="false"/>
+		<Build Solution="MinSizeRel|*" Project="false"/>
+		<Build Solution="RelWithDebInfo|*" Project="false"/>
+	</Project>
+	<Project Path="ZERO_CHECK.vcxproj" Type="8bc9ceb8-8b4a-11d0-8d11-00a0c91bc942" Id="f139d2ed-9c8e-3d4e-b739-2a31dc81dc5c"/>
+	<Project Path="bblaunch/bblaunch.vcxproj" Type="8bc9ceb8-8b4a-11d0-8d11-00a0c91bc942" Id="041aee5f-7d62-38e0-abf6-467fc2a4cbe7">
+		<BuildDependency Project="ZERO_CHECK.vcxproj"/>
+	</Project>
+	<Project Path="bbruntime/bbruntime.vcxproj" Type="8bc9ceb8-8b4a-11d0-8d11-00a0c91bc942" Id="62de6047-02b5-3fa7-a996-0c6d6cbc96d2">
+		<BuildDependency Project="ZERO_CHECK.vcxproj"/>
+		<BuildDependency Project="blitz3D/blitz3d.vcxproj"/>
+		<BuildDependency Project="freeimage/freeimage.vcxproj"/>
+		<BuildDependency Project="gxruntime/gxruntime.vcxproj"/>
+		<BuildDependency Project="soloud/soloud.vcxproj"/>
+		<BuildDependency Project="stdutil/stdutil.vcxproj"/>
+	</Project>
+	<Project Path="bbruntime_dll/bbruntime_dll.vcxproj" Type="8bc9ceb8-8b4a-11d0-8d11-00a0c91bc942" Id="53ff7ab5-bc83-3d9f-91a4-a5701016f6c2">
+		<BuildDependency Project="ZERO_CHECK.vcxproj"/>
+		<BuildDependency Project="bbruntime/bbruntime.vcxproj"/>
+		<BuildDependency Project="blitz3D/blitz3d.vcxproj"/>
+		<BuildDependency Project="freeimage/freeimage.vcxproj"/>
+		<BuildDependency Project="gxruntime/gxruntime.vcxproj"/>
+		<BuildDependency Project="soloud/soloud.vcxproj"/>
+		<BuildDependency Project="stdutil/stdutil.vcxproj"/>
+	</Project>
+	<Project Path="blitz/blitz.vcxproj" Type="8bc9ceb8-8b4a-11d0-8d11-00a0c91bc942" Id="3cba55a1-253e-305d-bb1c-e7423e46e5e2">
+		<BuildDependency Project="ZERO_CHECK.vcxproj"/>
+		<BuildDependency Project="compiler/compiler.vcxproj"/>
+		<BuildDependency Project="stdutil/stdutil.vcxproj"/>
+	</Project>
+	<Project Path="blitz3D/blitz3d.vcxproj" Type="8bc9ceb8-8b4a-11d0-8d11-00a0c91bc942" Id="65aaa1a6-66b1-3002-9808-c148a92336da">
+		<BuildDependency Project="ZERO_CHECK.vcxproj"/>
+		<BuildDependency Project="freeimage/freeimage.vcxproj"/>
+		<BuildDependency Project="gxruntime/gxruntime.vcxproj"/>
+		<BuildDependency Project="soloud/soloud.vcxproj"/>
+		<BuildDependency Project="stdutil/stdutil.vcxproj"/>
+	</Project>
+	<Project Path="blitzide/blitzide.vcxproj" Type="8bc9ceb8-8b4a-11d0-8d11-00a0c91bc942" Id="b8dc928b-d2d0-33e1-a36f-be7e2f840e55">
+		<BuildDependency Project="ZERO_CHECK.vcxproj"/>
+	</Project>
+	<Project Path="compiler/compiler.vcxproj" Type="8bc9ceb8-8b4a-11d0-8d11-00a0c91bc942" Id="3043a013-e38e-388f-ba89-fd5a8937a163">
+		<BuildDependency Project="ZERO_CHECK.vcxproj"/>
+		<BuildDependency Project="stdutil/stdutil.vcxproj"/>
+	</Project>
+	<Project Path="config/config.vcxproj" Type="8bc9ceb8-8b4a-11d0-8d11-00a0c91bc942" Id="c12c2e0b-4f79-344c-a334-fef7e825fc92">
+		<BuildDependency Project="ZERO_CHECK.vcxproj"/>
+	</Project>
+	<Project Path="debugger/debugger.vcxproj" Type="8bc9ceb8-8b4a-11d0-8d11-00a0c91bc942" Id="2cf8f0d0-fcc6-3f7e-984f-8fbe521e48ed">
+		<BuildDependency Project="ZERO_CHECK.vcxproj"/>
+	</Project>
+	<Project Path="freeimage/freeimage.vcxproj" Type="8bc9ceb8-8b4a-11d0-8d11-00a0c91bc942" Id="857be642-5fc9-32e6-bcda-ec0593507abb">
+		<BuildDependency Project="ZERO_CHECK.vcxproj"/>
+	</Project>
+	<Project Path="gxruntime/gxruntime.vcxproj" Type="8bc9ceb8-8b4a-11d0-8d11-00a0c91bc942" Id="b13406f2-8586-35dc-998b-5bbdb4601aea">
+		<BuildDependency Project="ZERO_CHECK.vcxproj"/>
+		<BuildDependency Project="freeimage/freeimage.vcxproj"/>
+		<BuildDependency Project="stdutil/stdutil.vcxproj"/>
+	</Project>
+	<Project Path="linker/linker.vcxproj" Type="8bc9ceb8-8b4a-11d0-8d11-00a0c91bc942" Id="8b493738-d1ea-3a46-a870-1d1c5c6f7a8e">
+		<BuildDependency Project="ZERO_CHECK.vcxproj"/>
+		<BuildDependency Project="stdutil/stdutil.vcxproj"/>
+	</Project>
+	<Project Path="linker_dll/linker_dll.vcxproj" Type="8bc9ceb8-8b4a-11d0-8d11-00a0c91bc942" Id="63a50eeb-361b-34d8-8bac-b4d3809e62d4">
+		<BuildDependency Project="ZERO_CHECK.vcxproj"/>
+		<BuildDependency Project="linker/linker.vcxproj"/>
+		<BuildDependency Project="stdutil/stdutil.vcxproj"/>
+	</Project>
+	<Project Path="soloud/soloud.vcxproj" Type="8bc9ceb8-8b4a-11d0-8d11-00a0c91bc942" Id="0bfdc357-157e-3e38-89d5-a58d006d047e">
+		<BuildDependency Project="ZERO_CHECK.vcxproj"/>
+	</Project>
+	<Project Path="stdutil/stdutil.vcxproj" Type="8bc9ceb8-8b4a-11d0-8d11-00a0c91bc942" Id="2f66f3d3-65f0-3256-af5e-44aca9cf5897">
+		<BuildDependency Project="ZERO_CHECK.vcxproj"/>
+	</Project>
+</Solution>

@@ -1,0 +1,150 @@
+^D:\GAME\ONEDAYCODE\BLITZ3D_SOLOUD\CMAKE-BUILD-RELEASE\_DEPS\SOLOUD-SUBBUILD\CMAKEFILES\F01A4823F7C1F782D0D760BE5DF5AE67\SOLOUD-POPULATE-MKDIR.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -Dcfgdir=/Debug -P D:/Game/OneDayCode/blitz3d_soloud/cmake-build-release/_deps/soloud-subbuild/soloud-populate-prefix/tmp/soloud-populate-mkdirs.cmake
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch D:/Game/OneDayCode/blitz3d_soloud/cmake-build-release/_deps/soloud-subbuild/soloud-populate-prefix/src/soloud-populate-stamp/Debug/soloud-populate-mkdir
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\GAME\ONEDAYCODE\BLITZ3D_SOLOUD\CMAKE-BUILD-RELEASE\_DEPS\SOLOUD-SUBBUILD\CMAKEFILES\F01A4823F7C1F782D0D760BE5DF5AE67\SOLOUD-POPULATE-DOWNLOAD.RULE
+setlocal
+cd D:\Game\OneDayCode\blitz3d_soloud\cmake-build-release\_deps
+if %errorlevel% neq 0 goto :cmEnd
+D:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE -P D:/Game/OneDayCode/blitz3d_soloud/cmake-build-release/_deps/soloud-subbuild/soloud-populate-prefix/tmp/soloud-populate-gitclone.cmake
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch D:/Game/OneDayCode/blitz3d_soloud/cmake-build-release/_deps/soloud-subbuild/soloud-populate-prefix/src/soloud-populate-stamp/Debug/soloud-populate-download
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\GAME\ONEDAYCODE\BLITZ3D_SOLOUD\CMAKE-BUILD-RELEASE\_DEPS\SOLOUD-SUBBUILD\CMAKEFILES\F01A4823F7C1F782D0D760BE5DF5AE67\SOLOUD-POPULATE-UPDATE.RULE
+setlocal
+cd D:\Game\OneDayCode\blitz3d_soloud\cmake-build-release\_deps\soloud-src
+if %errorlevel% neq 0 goto :cmEnd
+D:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -Dcan_fetch=YES -DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE -P D:/Game/OneDayCode/blitz3d_soloud/cmake-build-release/_deps/soloud-subbuild/soloud-populate-prefix/tmp/soloud-populate-gitupdate.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\GAME\ONEDAYCODE\BLITZ3D_SOLOUD\CMAKE-BUILD-RELEASE\_DEPS\SOLOUD-SUBBUILD\CMAKEFILES\F01A4823F7C1F782D0D760BE5DF5AE67\SOLOUD-POPULATE-PATCH.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch D:/Game/OneDayCode/blitz3d_soloud/cmake-build-release/_deps/soloud-subbuild/soloud-populate-prefix/src/soloud-populate-stamp/Debug/soloud-populate-patch
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\GAME\ONEDAYCODE\BLITZ3D_SOLOUD\CMAKE-BUILD-RELEASE\_DEPS\SOLOUD-SUBBUILD\CMAKEFILES\F01A4823F7C1F782D0D760BE5DF5AE67\SOLOUD-POPULATE-CONFIGURE.RULE
+setlocal
+cd D:\Game\OneDayCode\blitz3d_soloud\cmake-build-release\_deps\soloud-build
+if %errorlevel% neq 0 goto :cmEnd
+D:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch D:/Game/OneDayCode/blitz3d_soloud/cmake-build-release/_deps/soloud-subbuild/soloud-populate-prefix/src/soloud-populate-stamp/Debug/soloud-populate-configure
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\GAME\ONEDAYCODE\BLITZ3D_SOLOUD\CMAKE-BUILD-RELEASE\_DEPS\SOLOUD-SUBBUILD\CMAKEFILES\F01A4823F7C1F782D0D760BE5DF5AE67\SOLOUD-POPULATE-BUILD.RULE
+setlocal
+cd D:\Game\OneDayCode\blitz3d_soloud\cmake-build-release\_deps\soloud-build
+if %errorlevel% neq 0 goto :cmEnd
+D:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch D:/Game/OneDayCode/blitz3d_soloud/cmake-build-release/_deps/soloud-subbuild/soloud-populate-prefix/src/soloud-populate-stamp/Debug/soloud-populate-build
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\GAME\ONEDAYCODE\BLITZ3D_SOLOUD\CMAKE-BUILD-RELEASE\_DEPS\SOLOUD-SUBBUILD\CMAKEFILES\F01A4823F7C1F782D0D760BE5DF5AE67\SOLOUD-POPULATE-INSTALL.RULE
+setlocal
+cd D:\Game\OneDayCode\blitz3d_soloud\cmake-build-release\_deps\soloud-build
+if %errorlevel% neq 0 goto :cmEnd
+D:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch D:/Game/OneDayCode/blitz3d_soloud/cmake-build-release/_deps/soloud-subbuild/soloud-populate-prefix/src/soloud-populate-stamp/Debug/soloud-populate-install
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\GAME\ONEDAYCODE\BLITZ3D_SOLOUD\CMAKE-BUILD-RELEASE\_DEPS\SOLOUD-SUBBUILD\CMAKEFILES\F01A4823F7C1F782D0D760BE5DF5AE67\SOLOUD-POPULATE-TEST.RULE
+setlocal
+cd D:\Game\OneDayCode\blitz3d_soloud\cmake-build-release\_deps\soloud-build
+if %errorlevel% neq 0 goto :cmEnd
+D:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch D:/Game/OneDayCode/blitz3d_soloud/cmake-build-release/_deps/soloud-subbuild/soloud-populate-prefix/src/soloud-populate-stamp/Debug/soloud-populate-test
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\GAME\ONEDAYCODE\BLITZ3D_SOLOUD\CMAKE-BUILD-RELEASE\_DEPS\SOLOUD-SUBBUILD\CMAKEFILES\1EBA76AC39FBFC5FE61E319345FB74C8\SOLOUD-POPULATE-COMPLETE.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E make_directory D:/Game/OneDayCode/blitz3d_soloud/cmake-build-release/_deps/soloud-subbuild/CMakeFiles/Debug
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch D:/Game/OneDayCode/blitz3d_soloud/cmake-build-release/_deps/soloud-subbuild/CMakeFiles/Debug/soloud-populate-complete
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch D:/Game/OneDayCode/blitz3d_soloud/cmake-build-release/_deps/soloud-subbuild/soloud-populate-prefix/src/soloud-populate-stamp/Debug/soloud-populate-done
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\GAME\ONEDAYCODE\BLITZ3D_SOLOUD\CMAKE-BUILD-RELEASE\_DEPS\SOLOUD-SUBBUILD\CMAKEFILES\43A3B744485DA6B6B6D87697E925B69D\SOLOUD-POPULATE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\GAME\ONEDAYCODE\BLITZ3D_SOLOUD\CMAKE-BUILD-RELEASE\_DEPS\SOLOUD-SUBBUILD\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/Game/OneDayCode/blitz3d_soloud/cmake-build-release/_deps/soloud-subbuild -BD:/Game/OneDayCode/blitz3d_soloud/cmake-build-release/_deps/soloud-subbuild --check-stamp-file D:/Game/OneDayCode/blitz3d_soloud/cmake-build-release/_deps/soloud-subbuild/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

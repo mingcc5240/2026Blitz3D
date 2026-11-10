@@ -1,0 +1,234 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\blitz3D\animation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\blitz3D\animator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\blitz3D\brush.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\blitz3D\cachedtexture.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\blitz3D\camera.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\blitz3D\collision.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\blitz3D\entity.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\blitz3D\frustum.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\blitz3D\geom.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\blitz3D\light.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\blitz3D\listener.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\blitz3D\loader_3ds.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\blitz3D\loader_b3d.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\blitz3D\loader_x.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\blitz3D\md2model.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\blitz3D\md2norms.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\blitz3D\md2rep.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\blitz3D\meshcollider.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\blitz3D\meshloader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\blitz3D\meshmodel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\blitz3D\meshutil.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\blitz3D\mirror.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\blitz3D\model.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\blitz3D\object.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\blitz3D\pivot.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\blitz3D\planemodel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\blitz3D\q3bspmodel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\blitz3D\q3bsprep.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\blitz3D\sprite.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\blitz3D\std.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\blitz3D\surface.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\blitz3D\terrain.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\blitz3D\terrainrep.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\blitz3D\texture.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\blitz3D\world.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\Game\OneDayCode\blitz3d_soloud\blitz3D\animation.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Game\OneDayCode\blitz3d_soloud\blitz3D\animator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Game\OneDayCode\blitz3d_soloud\blitz3D\blitz3d.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Game\OneDayCode\blitz3d_soloud\blitz3D\brush.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Game\OneDayCode\blitz3d_soloud\blitz3D\cachedtexture.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Game\OneDayCode\blitz3d_soloud\blitz3D\camera.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Game\OneDayCode\blitz3d_soloud\blitz3D\collision.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Game\OneDayCode\blitz3d_soloud\blitz3D\entity.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Game\OneDayCode\blitz3d_soloud\blitz3D\frustum.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Game\OneDayCode\blitz3d_soloud\blitz3D\geom.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Game\OneDayCode\blitz3d_soloud\blitz3D\light.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Game\OneDayCode\blitz3d_soloud\blitz3D\listener.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Game\OneDayCode\blitz3d_soloud\blitz3D\loader_3ds.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Game\OneDayCode\blitz3d_soloud\blitz3D\loader_b3d.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Game\OneDayCode\blitz3d_soloud\blitz3D\loader_x.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Game\OneDayCode\blitz3d_soloud\blitz3D\md2model.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Game\OneDayCode\blitz3d_soloud\blitz3D\md2norms.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Game\OneDayCode\blitz3d_soloud\blitz3D\md2rep.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Game\OneDayCode\blitz3d_soloud\blitz3D\meshcollider.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Game\OneDayCode\blitz3d_soloud\blitz3D\meshloader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Game\OneDayCode\blitz3d_soloud\blitz3D\meshmodel.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Game\OneDayCode\blitz3d_soloud\blitz3D\meshutil.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Game\OneDayCode\blitz3d_soloud\blitz3D\mirror.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Game\OneDayCode\blitz3d_soloud\blitz3D\model.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Game\OneDayCode\blitz3d_soloud\blitz3D\object.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Game\OneDayCode\blitz3d_soloud\blitz3D\pivot.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Game\OneDayCode\blitz3d_soloud\blitz3D\planemodel.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Game\OneDayCode\blitz3d_soloud\blitz3D\q3bspmodel.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Game\OneDayCode\blitz3d_soloud\blitz3D\q3bsprep.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Game\OneDayCode\blitz3d_soloud\blitz3D\rendercontext.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Game\OneDayCode\blitz3d_soloud\blitz3D\sprite.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Game\OneDayCode\blitz3d_soloud\blitz3D\std.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Game\OneDayCode\blitz3d_soloud\blitz3D\surface.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Game\OneDayCode\blitz3d_soloud\blitz3D\terrain.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Game\OneDayCode\blitz3d_soloud\blitz3D\terrainrep.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Game\OneDayCode\blitz3d_soloud\blitz3D\texture.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Game\OneDayCode\blitz3d_soloud\blitz3D\world.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\Game\OneDayCode\blitz3d_soloud\blitz3D\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{C0BF9F57-3014-3F06-B4C1-B5BF22959E94}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{82600652-D487-3D36-9F40-EC6F58AD23BC}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

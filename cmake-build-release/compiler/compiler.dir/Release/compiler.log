@@ -1,0 +1,20 @@
+﻿  Building Custom Rule D:/Game/OneDayCode/blitz3d_soloud/compiler/CMakeLists.txt
+  asm_insts.cpp
+  assem_x86.cpp
+  operand.cpp
+  codegen_x86.cpp
+  tile.cpp
+  decl.cpp
+  declnode.cpp
+  environ.cpp
+  exprnode.cpp
+  node.cpp
+  parser.cpp
+  prognode.cpp
+  std.cpp
+  stmtnode.cpp
+  toker.cpp
+  type.cpp
+  varnode.cpp
+  코드를 생성하고 있습니다...
+  compiler.vcxproj -> D:\Game\OneDayCode\blitz3d_soloud\cmake-build-release\compiler\Release\compiler.lib

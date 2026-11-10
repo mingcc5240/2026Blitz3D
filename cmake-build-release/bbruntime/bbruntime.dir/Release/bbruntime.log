@@ -1,0 +1,18 @@
+﻿  Building Custom Rule D:/Game/OneDayCode/blitz3d_soloud/bbruntime/CMakeLists.txt
+  basic.cpp
+  bbbank.cpp
+  bbfilesystem.cpp
+  bbmath.cpp
+  bbruntime.cpp
+  bbsockets.cpp
+  bbstream.cpp
+  bbstring.cpp
+  bbsys.cpp
+  std.cpp
+  userlibs.cpp
+  bbinput.cpp
+  bbblitz3d.cpp
+  bbgraphics.cpp
+  bbaudio_soloud.cpp
+  코드를 생성하고 있습니다...
+  bbruntime.vcxproj -> D:\Game\OneDayCode\blitz3d_soloud\cmake-build-release\bbruntime\Release\bbruntime.lib

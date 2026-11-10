@@ -1,0 +1,4 @@
+﻿  Building Custom Rule D:/Game/OneDayCode/blitz3d_soloud/bblaunch/CMakeLists.txt
+  bblaunch.cpp
+  bblaunch.vcxproj -> D:\Game\OneDayCode\blitz3d_soloud\cmake-build-release\bblaunch\Release\bblaunch.exe
+  Copying bblaunch output file "D:/Game/OneDayCode/blitz3d_soloud/cmake-build-release/bblaunch/Release/bblaunch.exe" to "D:/Game/OneDayCode/blitz3d_soloud/BLITZ3D_INSTALL/Blitz3D.exe"

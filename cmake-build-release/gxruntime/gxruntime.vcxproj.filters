@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\gxruntime\std.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\gxruntime\gxdir.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\gxruntime\gxfilesystem.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\gxruntime\gxtimer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\gxruntime\gxruntime_b3d.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\gxruntime\ddutil.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\gxruntime\gxcanvas.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\gxruntime\gxfont.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\gxruntime\gxgraphics.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\gxruntime\gxdevice.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\gxruntime\gxinput.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\gxruntime\gxlight.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\gxruntime\gxmesh.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\gxruntime\gxmovie.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\gxruntime\gxscene.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\Game\OneDayCode\blitz3d_soloud\gxruntime\std.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Game\OneDayCode\blitz3d_soloud\gxruntime\asmcoder.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Game\OneDayCode\blitz3d_soloud\gxruntime\gxdir.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Game\OneDayCode\blitz3d_soloud\gxruntime\gxfilesystem.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Game\OneDayCode\blitz3d_soloud\gxruntime\gxtimer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Game\OneDayCode\blitz3d_soloud\gxruntime\gxruntime_b3d.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Game\OneDayCode\blitz3d_soloud\gxruntime\ddutil.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Game\OneDayCode\blitz3d_soloud\gxruntime\gxcanvas.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Game\OneDayCode\blitz3d_soloud\gxruntime\gxfont.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Game\OneDayCode\blitz3d_soloud\gxruntime\gxgraphics.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Game\OneDayCode\blitz3d_soloud\gxruntime\gxdevice.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Game\OneDayCode\blitz3d_soloud\gxruntime\gxinput.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Game\OneDayCode\blitz3d_soloud\gxruntime\gxlight.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Game\OneDayCode\blitz3d_soloud\gxruntime\gxmesh.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Game\OneDayCode\blitz3d_soloud\gxruntime\gxmovie.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Game\OneDayCode\blitz3d_soloud\gxruntime\gxscene.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\Game\OneDayCode\blitz3d_soloud\gxruntime\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{C0BF9F57-3014-3F06-B4C1-B5BF22959E94}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{82600652-D487-3D36-9F40-EC6F58AD23BC}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

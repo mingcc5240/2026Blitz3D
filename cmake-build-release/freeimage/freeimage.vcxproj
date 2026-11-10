@@ -1,0 +1,432 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PreferredToolArchitecture>x64</PreferredToolArchitecture>
+  </PropertyGroup>
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="MinSizeRel|Win32">
+      <Configuration>MinSizeRel</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="RelWithDebInfo|Win32">
+      <Configuration>RelWithDebInfo</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{857BE642-5FC9-32E6-BCDA-EC0593507ABB}</ProjectGuid>
+    <Keyword>Win32Proj</Keyword>
+    <WindowsTargetPlatformVersion>10.0.28000.0</WindowsTargetPlatformVersion>
+    <Platform>Win32</Platform>
+    <ProjectName>freeimage</ProjectName>
+    <VCProjectUpgraderObjectName>NoUpgrade</VCProjectUpgraderObjectName>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>StaticLibrary</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v145</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>StaticLibrary</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v145</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'" Label="Configuration">
+    <ConfigurationType>StaticLibrary</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v145</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'" Label="Configuration">
+    <ConfigurationType>StaticLibrary</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v145</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup>
+    <_ProjectFileVersion>10.0.20506.1</_ProjectFileVersion>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">D:\Game\OneDayCode\blitz3d_soloud\cmake-build-release\freeimage\Debug\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">freeimage.dir\Debug\</IntDir>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">freeimage</TargetName>
+    <TargetExt Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">.lib</TargetExt>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">D:\Game\OneDayCode\blitz3d_soloud\cmake-build-release\freeimage\Release\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">freeimage.dir\Release\</IntDir>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">freeimage</TargetName>
+    <TargetExt Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">.lib</TargetExt>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">D:\Game\OneDayCode\blitz3d_soloud\cmake-build-release\freeimage\MinSizeRel\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">freeimage.dir\MinSizeRel\</IntDir>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">freeimage</TargetName>
+    <TargetExt Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">.lib</TargetExt>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">D:\Game\OneDayCode\blitz3d_soloud\cmake-build-release\freeimage\RelWithDebInfo\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">freeimage.dir\RelWithDebInfo\</IntDir>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">freeimage</TargetName>
+    <TargetExt Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">.lib</TargetExt>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>D:\Game\OneDayCode\blitz3d_soloud;D:\Game\OneDayCode\blitz3d_soloud\freeimage;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AssemblerListingLocation>$(IntDir)</AssemblerListingLocation>
+      <BasicRuntimeChecks>EnableFastChecks</BasicRuntimeChecks>
+      <BufferSecurityCheck></BufferSecurityCheck>
+      <CallingConvention>Cdecl</CallingConvention>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+      <ExceptionHandling>Sync</ExceptionHandling>
+      <FloatingPointModel></FloatingPointModel>
+      <ForceConformanceInForLoopScope></ForceConformanceInForLoopScope>
+      <InlineFunctionExpansion>Disabled</InlineFunctionExpansion>
+      <LanguageStandard>stdcpp14</LanguageStandard>
+      <MinimalRebuild></MinimalRebuild>
+      <Optimization>Disabled</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <RemoveUnreferencedCodeData></RemoveUnreferencedCodeData>
+      <RuntimeLibrary>MultiThreadedDebug</RuntimeLibrary>
+      <RuntimeTypeInfo>true</RuntimeTypeInfo>
+      <SupportJustMyCode></SupportJustMyCode>
+      <TreatWChar_tAsBuiltInType></TreatWChar_tAsBuiltInType>
+      <UseFullPaths>false</UseFullPaths>
+      <PreprocessorDefinitions>%(PreprocessorDefinitions);WIN32;_WINDOWS;FREEIMAGE_LIB=1;_LIB=1;BB_BLITZ3D_ENABLED=1;CMAKE_INTDIR="Debug"</PreprocessorDefinitions>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+      <ScanSourceForModuleDependencies>false</ScanSourceForModuleDependencies>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>%(PreprocessorDefinitions);WIN32;_DEBUG;_WINDOWS;FREEIMAGE_LIB=1;_LIB=1;BB_BLITZ3D_ENABLED=1;CMAKE_INTDIR=\"Debug\"</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>D:\Game\OneDayCode\blitz3d_soloud;D:\Game\OneDayCode\blitz3d_soloud\freeimage;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>D:\Game\OneDayCode\blitz3d_soloud;D:\Game\OneDayCode\blitz3d_soloud\freeimage;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <Lib>
+      <AdditionalOptions>%(AdditionalOptions) /machine:X86</AdditionalOptions>
+    </Lib>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>D:\Game\OneDayCode\blitz3d_soloud;D:\Game\OneDayCode\blitz3d_soloud\freeimage;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AssemblerListingLocation>$(IntDir)</AssemblerListingLocation>
+      <BasicRuntimeChecks>Default</BasicRuntimeChecks>
+      <BufferSecurityCheck></BufferSecurityCheck>
+      <CallingConvention>Cdecl</CallingConvention>
+      <ExceptionHandling>Sync</ExceptionHandling>
+      <FloatingPointModel></FloatingPointModel>
+      <ForceConformanceInForLoopScope></ForceConformanceInForLoopScope>
+      <InlineFunctionExpansion>AnySuitable</InlineFunctionExpansion>
+      <LanguageStandard>stdcpp14</LanguageStandard>
+      <MinimalRebuild></MinimalRebuild>
+      <Optimization>MaxSpeed</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <RemoveUnreferencedCodeData></RemoveUnreferencedCodeData>
+      <RuntimeLibrary>MultiThreaded</RuntimeLibrary>
+      <RuntimeTypeInfo>true</RuntimeTypeInfo>
+      <SupportJustMyCode></SupportJustMyCode>
+      <TreatWChar_tAsBuiltInType></TreatWChar_tAsBuiltInType>
+      <UseFullPaths>false</UseFullPaths>
+      <PreprocessorDefinitions>%(PreprocessorDefinitions);WIN32;_WINDOWS;NDEBUG;FREEIMAGE_LIB=1;_LIB=1;BB_BLITZ3D_ENABLED=1;CMAKE_INTDIR="Release"</PreprocessorDefinitions>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+      <DebugInformationFormat>
+      </DebugInformationFormat>
+      <ScanSourceForModuleDependencies>false</ScanSourceForModuleDependencies>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>%(PreprocessorDefinitions);WIN32;_WINDOWS;NDEBUG;FREEIMAGE_LIB=1;_LIB=1;BB_BLITZ3D_ENABLED=1;CMAKE_INTDIR=\"Release\"</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>D:\Game\OneDayCode\blitz3d_soloud;D:\Game\OneDayCode\blitz3d_soloud\freeimage;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>D:\Game\OneDayCode\blitz3d_soloud;D:\Game\OneDayCode\blitz3d_soloud\freeimage;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <Lib>
+      <AdditionalOptions>%(AdditionalOptions) /machine:X86</AdditionalOptions>
+    </Lib>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>D:\Game\OneDayCode\blitz3d_soloud;D:\Game\OneDayCode\blitz3d_soloud\freeimage;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AssemblerListingLocation>$(IntDir)</AssemblerListingLocation>
+      <BasicRuntimeChecks>Default</BasicRuntimeChecks>
+      <BufferSecurityCheck></BufferSecurityCheck>
+      <CallingConvention>Cdecl</CallingConvention>
+      <ExceptionHandling>Sync</ExceptionHandling>
+      <FloatingPointModel></FloatingPointModel>
+      <ForceConformanceInForLoopScope></ForceConformanceInForLoopScope>
+      <InlineFunctionExpansion>OnlyExplicitInline</InlineFunctionExpansion>
+      <LanguageStandard>stdcpp14</LanguageStandard>
+      <MinimalRebuild></MinimalRebuild>
+      <Optimization>MinSpace</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <RemoveUnreferencedCodeData></RemoveUnreferencedCodeData>
+      <RuntimeLibrary>MultiThreaded</RuntimeLibrary>
+      <RuntimeTypeInfo>true</RuntimeTypeInfo>
+      <SupportJustMyCode></SupportJustMyCode>
+      <TreatWChar_tAsBuiltInType></TreatWChar_tAsBuiltInType>
+      <UseFullPaths>false</UseFullPaths>
+      <PreprocessorDefinitions>%(PreprocessorDefinitions);WIN32;_WINDOWS;NDEBUG;FREEIMAGE_LIB=1;_LIB=1;BB_BLITZ3D_ENABLED=1;CMAKE_INTDIR="MinSizeRel"</PreprocessorDefinitions>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+      <DebugInformationFormat>
+      </DebugInformationFormat>
+      <ScanSourceForModuleDependencies>false</ScanSourceForModuleDependencies>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>%(PreprocessorDefinitions);WIN32;_WINDOWS;NDEBUG;FREEIMAGE_LIB=1;_LIB=1;BB_BLITZ3D_ENABLED=1;CMAKE_INTDIR=\"MinSizeRel\"</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>D:\Game\OneDayCode\blitz3d_soloud;D:\Game\OneDayCode\blitz3d_soloud\freeimage;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>D:\Game\OneDayCode\blitz3d_soloud;D:\Game\OneDayCode\blitz3d_soloud\freeimage;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <Lib>
+      <AdditionalOptions>%(AdditionalOptions) /machine:X86</AdditionalOptions>
+    </Lib>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>D:\Game\OneDayCode\blitz3d_soloud;D:\Game\OneDayCode\blitz3d_soloud\freeimage;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AssemblerListingLocation>$(IntDir)</AssemblerListingLocation>
+      <BasicRuntimeChecks>Default</BasicRuntimeChecks>
+      <BufferSecurityCheck></BufferSecurityCheck>
+      <CallingConvention>Cdecl</CallingConvention>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+      <ExceptionHandling>Sync</ExceptionHandling>
+      <FloatingPointModel></FloatingPointModel>
+      <ForceConformanceInForLoopScope></ForceConformanceInForLoopScope>
+      <InlineFunctionExpansion>OnlyExplicitInline</InlineFunctionExpansion>
+      <LanguageStandard>stdcpp14</LanguageStandard>
+      <MinimalRebuild></MinimalRebuild>
+      <Optimization>MaxSpeed</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <RemoveUnreferencedCodeData></RemoveUnreferencedCodeData>
+      <RuntimeLibrary>MultiThreaded</RuntimeLibrary>
+      <RuntimeTypeInfo>true</RuntimeTypeInfo>
+      <SupportJustMyCode></SupportJustMyCode>
+      <TreatWChar_tAsBuiltInType></TreatWChar_tAsBuiltInType>
+      <UseFullPaths>false</UseFullPaths>
+      <PreprocessorDefinitions>%(PreprocessorDefinitions);WIN32;_WINDOWS;NDEBUG;FREEIMAGE_LIB=1;_LIB=1;BB_BLITZ3D_ENABLED=1;CMAKE_INTDIR="RelWithDebInfo"</PreprocessorDefinitions>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+      <ScanSourceForModuleDependencies>false</ScanSourceForModuleDependencies>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>%(PreprocessorDefinitions);WIN32;_WINDOWS;NDEBUG;FREEIMAGE_LIB=1;_LIB=1;BB_BLITZ3D_ENABLED=1;CMAKE_INTDIR=\"RelWithDebInfo\"</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>D:\Game\OneDayCode\blitz3d_soloud;D:\Game\OneDayCode\blitz3d_soloud\freeimage;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>D:\Game\OneDayCode\blitz3d_soloud;D:\Game\OneDayCode\blitz3d_soloud\freeimage;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <Lib>
+      <AdditionalOptions>%(AdditionalOptions) /machine:X86</AdditionalOptions>
+    </Lib>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\CMakeLists.txt">
+      <UseUtf8Encoding>Always</UseUtf8Encoding>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Building Custom Rule D:/Game/OneDayCode/blitz3d_soloud/freeimage/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/Game/OneDayCode/blitz3d_soloud -BD:/Game/OneDayCode/blitz3d_soloud/cmake-build-release --check-stamp-file D:/Game/OneDayCode/blitz3d_soloud/cmake-build-release/freeimage/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">D:\Game\OneDayCode\blitz3d_soloud\cmake-build-release\freeimage\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Building Custom Rule D:/Game/OneDayCode/blitz3d_soloud/freeimage/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/Game/OneDayCode/blitz3d_soloud -BD:/Game/OneDayCode/blitz3d_soloud/cmake-build-release --check-stamp-file D:/Game/OneDayCode/blitz3d_soloud/cmake-build-release/freeimage/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">D:\Game\OneDayCode\blitz3d_soloud\cmake-build-release\freeimage\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">Building Custom Rule D:/Game/OneDayCode/blitz3d_soloud/freeimage/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/Game/OneDayCode/blitz3d_soloud -BD:/Game/OneDayCode/blitz3d_soloud/cmake-build-release --check-stamp-file D:/Game/OneDayCode/blitz3d_soloud/cmake-build-release/freeimage/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">D:\Game\OneDayCode\blitz3d_soloud\cmake-build-release\freeimage\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">Building Custom Rule D:/Game/OneDayCode/blitz3d_soloud/freeimage/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/Game/OneDayCode/blitz3d_soloud -BD:/Game/OneDayCode/blitz3d_soloud/cmake-build-release --check-stamp-file D:/Game/OneDayCode/blitz3d_soloud/cmake-build-release/freeimage/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">D:\Game\OneDayCode\blitz3d_soloud\cmake-build-release\freeimage\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">false</LinkObjects>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\FreeImage.h" />
+    <ClInclude Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\FreeImageIO.h" />
+    <ClInclude Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\Plugin.h" />
+    <ClInclude Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\Quantizers.h" />
+    <ClInclude Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\Utilities.h" />
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\FreeImage\BitmapAccess.cpp" />
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\FreeImage\Conversion.cpp" />
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\FreeImage\Conversion16_555.cpp" />
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\FreeImage\Conversion16_565.cpp" />
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\FreeImage\Conversion24.cpp" />
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\FreeImage\Conversion32.cpp" />
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\FreeImage\Conversion8.cpp" />
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\FreeImage\FreeImage.cpp" />
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\FreeImage\FreeImageIO.cpp" />
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\FreeImage\GetType.cpp" />
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\FreeImage\LoadFunctions.cpp" />
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\FreeImage\NNQuantizer.cpp" />
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\FreeImage\Plugin.cpp" />
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\FreeImage\PluginBMP.cpp" />
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\FreeImage\PluginICO.cpp" />
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\FreeImage\PluginIFF.cpp" />
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\FreeImage\PluginJPEG.cpp" />
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\FreeImage\PluginKOALA.cpp" />
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\FreeImage\PluginMNG.cpp" />
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\FreeImage\PluginPCD.cpp" />
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\FreeImage\PluginPCX.cpp" />
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\FreeImage\PluginPNG.cpp" />
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\FreeImage\PluginPNM.cpp" />
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\FreeImage\PluginPSD.cpp" />
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\FreeImage\PluginRAS.cpp" />
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\FreeImage\PluginTARGA.cpp" />
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\FreeImage\PluginTIFF.cpp" />
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\FreeImage\PluginWBMP.cpp" />
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\FreeImage\WuQuantizer.cpp" />
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibJPEG\jcapimin.c" />
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibJPEG\jcapistd.c" />
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibJPEG\jccoefct.c" />
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibJPEG\jccolor.c" />
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibJPEG\jcdctmgr.c" />
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibJPEG\jchuff.c" />
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibJPEG\jcinit.c" />
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibJPEG\jcmainct.c" />
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibJPEG\jcmarker.c" />
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibJPEG\jcmaster.c" />
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibJPEG\jcomapi.c" />
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibJPEG\jcparam.c" />
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibJPEG\jcphuff.c" />
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibJPEG\jcprepct.c" />
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibJPEG\jcsample.c" />
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibJPEG\jctrans.c" />
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibJPEG\jdapimin.c" />
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibJPEG\jdapistd.c" />
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibJPEG\jdatadst.c" />
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibJPEG\jdatasrc.c" />
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibJPEG\jdcoefct.c" />
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibJPEG\jdcolor.c" />
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibJPEG\jddctmgr.c" />
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibJPEG\jdhuff.c" />
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibJPEG\jdinput.c" />
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibJPEG\jdmainct.c" />
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibJPEG\jdmarker.c" />
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibJPEG\jdmaster.c" />
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibJPEG\jdmerge.c" />
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibJPEG\jdphuff.c" />
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibJPEG\jdpostct.c" />
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibJPEG\jdsample.c" />
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibJPEG\jdtrans.c" />
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibJPEG\jerror.c" />
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibJPEG\jfdctflt.c" />
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibJPEG\jfdctfst.c" />
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibJPEG\jfdctint.c" />
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibJPEG\jidctflt.c" />
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibJPEG\jidctfst.c" />
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibJPEG\jidctint.c" />
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibJPEG\jidctred.c" />
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibJPEG\jmemmgr.c" />
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibJPEG\jmemnobs.c" />
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibJPEG\jquant1.c" />
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibJPEG\jquant2.c" />
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibJPEG\jutils.c" />
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibPNG\png.c" />
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibPNG\pngerror.c" />
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibPNG\pnggccrd.c" />
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibPNG\pngget.c" />
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibPNG\pngmem.c" />
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibPNG\pngpread.c" />
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibPNG\pngread.c" />
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibPNG\pngrio.c" />
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibPNG\pngrtran.c" />
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibPNG\pngrutil.c" />
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibPNG\pngset.c" />
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibPNG\pngtest.c" />
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibPNG\pngtrans.c" />
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibPNG\pngvcrd.c" />
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibPNG\pngwio.c" />
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibPNG\pngwrite.c" />
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibPNG\pngwtran.c" />
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\LibPNG\pngwutil.c" />
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\ZLib\adler32.c" />
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\ZLib\compress.c" />
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\ZLib\crc32.c" />
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\ZLib\deflate.c" />
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\ZLib\gzio.c" />
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\ZLib\infblock.c" />
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\ZLib\infcodes.c" />
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\ZLib\inffast.c" />
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\ZLib\inflate.c" />
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\ZLib\inftrees.c" />
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\ZLib\infutil.c" />
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\ZLib\trees.c" />
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\ZLib\uncompr.c" />
+    <ClCompile Include="D:\Game\OneDayCode\blitz3d_soloud\freeimage\ZLib\zutil.c" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <ProjectReference Include="D:\Game\OneDayCode\blitz3d_soloud\cmake-build-release\ZERO_CHECK.vcxproj">
+      <Project>{F139D2ED-9C8E-3D4E-B739-2A31DC81DC5C}</Project>
+      <Name>ZERO_CHECK</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

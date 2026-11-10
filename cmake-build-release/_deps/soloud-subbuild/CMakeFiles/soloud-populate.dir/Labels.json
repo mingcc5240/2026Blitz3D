@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/Game/OneDayCode/blitz3d_soloud/cmake-build-release/_deps/soloud-subbuild/CMakeFiles/soloud-populate"
+		},
+		{
+			"file" : "D:/Game/OneDayCode/blitz3d_soloud/cmake-build-release/_deps/soloud-subbuild/CMakeFiles/43a3b744485da6b6b6d87697e925b69d/soloud-populate.rule"
+		},
+		{
+			"file" : "D:/Game/OneDayCode/blitz3d_soloud/cmake-build-release/_deps/soloud-subbuild/CMakeFiles/1eba76ac39fbfc5fe61e319345fb74c8/soloud-populate-complete.rule"
+		},
+		{
+			"file" : "D:/Game/OneDayCode/blitz3d_soloud/cmake-build-release/_deps/soloud-subbuild/CMakeFiles/f01a4823f7c1f782d0d760be5df5ae67/soloud-populate-build.rule"
+		},
+		{
+			"file" : "D:/Game/OneDayCode/blitz3d_soloud/cmake-build-release/_deps/soloud-subbuild/CMakeFiles/f01a4823f7c1f782d0d760be5df5ae67/soloud-populate-configure.rule"
+		},
+		{
+			"file" : "D:/Game/OneDayCode/blitz3d_soloud/cmake-build-release/_deps/soloud-subbuild/CMakeFiles/f01a4823f7c1f782d0d760be5df5ae67/soloud-populate-download.rule"
+		},
+		{
+			"file" : "D:/Game/OneDayCode/blitz3d_soloud/cmake-build-release/_deps/soloud-subbuild/CMakeFiles/f01a4823f7c1f782d0d760be5df5ae67/soloud-populate-install.rule"
+		},
+		{
+			"file" : "D:/Game/OneDayCode/blitz3d_soloud/cmake-build-release/_deps/soloud-subbuild/CMakeFiles/f01a4823f7c1f782d0d760be5df5ae67/soloud-populate-mkdir.rule"
+		},
+		{
+			"file" : "D:/Game/OneDayCode/blitz3d_soloud/cmake-build-release/_deps/soloud-subbuild/CMakeFiles/f01a4823f7c1f782d0d760be5df5ae67/soloud-populate-patch.rule"
+		},
+		{
+			"file" : "D:/Game/OneDayCode/blitz3d_soloud/cmake-build-release/_deps/soloud-subbuild/CMakeFiles/f01a4823f7c1f782d0d760be5df5ae67/soloud-populate-test.rule"
+		},
+		{
+			"file" : "D:/Game/OneDayCode/blitz3d_soloud/cmake-build-release/_deps/soloud-subbuild/CMakeFiles/f01a4823f7c1f782d0d760be5df5ae67/soloud-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"soloud-populate"
+		],
+		"name" : "soloud-populate"
+	}
+}

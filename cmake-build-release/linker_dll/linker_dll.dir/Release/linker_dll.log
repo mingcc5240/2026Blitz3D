@@ -1,0 +1,5 @@
+﻿  Building Custom Rule D:/Game/OneDayCode/blitz3d_soloud/linker_dll/CMakeLists.txt
+  linker_dll.cpp
+     D:/Game/OneDayCode/blitz3d_soloud/cmake-build-release/linker_dll/Release/linker_dll.lib 라이브러리 및 D:/Game/OneDayCode/blitz3d_soloud/cmake-build-release/linker_dll/Release/linker_dll.exp 개체를 생성하고 있습니다.
+  linker_dll.vcxproj -> D:\Game\OneDayCode\blitz3d_soloud\cmake-build-release\linker_dll\Release\linker_dll.dll
+  Copying linker_dll output file "D:/Game/OneDayCode/blitz3d_soloud/cmake-build-release/linker_dll/Release/linker_dll.dll" to "D:/Game/OneDayCode/blitz3d_soloud/BLITZ3D_INSTALL/bin/linker.dll"

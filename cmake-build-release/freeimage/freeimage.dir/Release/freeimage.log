@@ -1,0 +1,226 @@
+﻿  Building Custom Rule D:/Game/OneDayCode/blitz3d_soloud/freeimage/CMakeLists.txt
+  BitmapAccess.cpp
+D:\Game\OneDayCode\blitz3d_soloud\freeimage\FreeImage\BitmapAccess.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+D:\Game\OneDayCode\blitz3d_soloud\freeimage\FreeImage.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '../../freeimage/FreeImage/BitmapAccess.cpp'을(를) 컴파일하는 중)
+  
+  Conversion.cpp
+D:\Game\OneDayCode\blitz3d_soloud\freeimage\FreeImage\Conversion.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+D:\Game\OneDayCode\blitz3d_soloud\freeimage\FreeImage.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '../../freeimage/FreeImage/Conversion.cpp'을(를) 컴파일하는 중)
+  
+D:\Game\OneDayCode\blitz3d_soloud\freeimage\Quantizers.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '../../freeimage/FreeImage/Conversion.cpp'을(를) 컴파일하는 중)
+  
+  Conversion16_555.cpp
+D:\Game\OneDayCode\blitz3d_soloud\freeimage\FreeImage\Conversion16_555.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+D:\Game\OneDayCode\blitz3d_soloud\freeimage\FreeImage.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '../../freeimage/FreeImage/Conversion16_555.cpp'을(를) 컴파일하는 중)
+  
+  Conversion16_565.cpp
+D:\Game\OneDayCode\blitz3d_soloud\freeimage\FreeImage\Conversion16_565.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+D:\Game\OneDayCode\blitz3d_soloud\freeimage\FreeImage.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '../../freeimage/FreeImage/Conversion16_565.cpp'을(를) 컴파일하는 중)
+  
+  Conversion24.cpp
+D:\Game\OneDayCode\blitz3d_soloud\freeimage\FreeImage\Conversion24.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+D:\Game\OneDayCode\blitz3d_soloud\freeimage\FreeImage.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '../../freeimage/FreeImage/Conversion24.cpp'을(를) 컴파일하는 중)
+  
+  Conversion32.cpp
+D:\Game\OneDayCode\blitz3d_soloud\freeimage\FreeImage\Conversion32.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+D:\Game\OneDayCode\blitz3d_soloud\freeimage\FreeImage.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '../../freeimage/FreeImage/Conversion32.cpp'을(를) 컴파일하는 중)
+  
+  Conversion8.cpp
+D:\Game\OneDayCode\blitz3d_soloud\freeimage\FreeImage\Conversion8.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+D:\Game\OneDayCode\blitz3d_soloud\freeimage\FreeImage.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '../../freeimage/FreeImage/Conversion8.cpp'을(를) 컴파일하는 중)
+  
+  FreeImage.cpp
+D:\Game\OneDayCode\blitz3d_soloud\freeimage\FreeImage.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '../../freeimage/FreeImage/FreeImage.cpp'을(를) 컴파일하는 중)
+  
+  FreeImageIO.cpp
+D:\Game\OneDayCode\blitz3d_soloud\freeimage\FreeImage.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '../../freeimage/FreeImage/FreeImageIO.cpp'을(를) 컴파일하는 중)
+  
+  GetType.cpp
+D:\Game\OneDayCode\blitz3d_soloud\freeimage\FreeImage.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '../freeimage/FreeImage/GetType.cpp'을(를) 컴파일하는 중)
+  
+  LoadFunctions.cpp
+D:\Game\OneDayCode\blitz3d_soloud\freeimage\FreeImage.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '../../freeimage/FreeImage/LoadFunctions.cpp'을(를) 컴파일하는 중)
+  
+  NNQuantizer.cpp
+D:\Game\OneDayCode\blitz3d_soloud\freeimage\FreeImage\NNQuantizer.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+D:\Game\OneDayCode\blitz3d_soloud\freeimage\FreeImage.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '../../freeimage/FreeImage/NNQuantizer.cpp'을(를) 컴파일하는 중)
+  
+  Plugin.cpp
+D:\Game\OneDayCode\blitz3d_soloud\freeimage\FreeImage.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '../../freeimage/FreeImage/Plugin.cpp'을(를) 컴파일하는 중)
+  
+  PluginBMP.cpp
+D:\Game\OneDayCode\blitz3d_soloud\freeimage\FreeImage.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '../../freeimage/FreeImage/PluginBMP.cpp'을(를) 컴파일하는 중)
+  
+  PluginICO.cpp
+D:\Game\OneDayCode\blitz3d_soloud\freeimage\FreeImage.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '../../freeimage/FreeImage/PluginICO.cpp'을(를) 컴파일하는 중)
+  
+  PluginIFF.cpp
+D:\Game\OneDayCode\blitz3d_soloud\freeimage\FreeImage.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '../../freeimage/FreeImage/PluginIFF.cpp'을(를) 컴파일하는 중)
+  
+  PluginJPEG.cpp
+D:\Game\OneDayCode\blitz3d_soloud\freeimage\FreeImage.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '../../freeimage/FreeImage/PluginJPEG.cpp'을(를) 컴파일하는 중)
+  
+  PluginKOALA.cpp
+D:\Game\OneDayCode\blitz3d_soloud\freeimage\FreeImage.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '../../freeimage/FreeImage/PluginKOALA.cpp'을(를) 컴파일하는 중)
+  
+  PluginMNG.cpp
+D:\Game\OneDayCode\blitz3d_soloud\freeimage\FreeImage.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '../../freeimage/FreeImage/PluginMNG.cpp'을(를) 컴파일하는 중)
+  
+  PluginPCD.cpp
+D:\Game\OneDayCode\blitz3d_soloud\freeimage\FreeImage.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '../../freeimage/FreeImage/PluginPCD.cpp'을(를) 컴파일하는 중)
+  
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  PluginPCX.cpp
+D:\Game\OneDayCode\blitz3d_soloud\freeimage\FreeImage\PluginPCX.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+D:\Game\OneDayCode\blitz3d_soloud\freeimage\FreeImage.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '../../freeimage/FreeImage/PluginPCX.cpp'을(를) 컴파일하는 중)
+  
+  PluginPNG.cpp
+D:\Game\OneDayCode\blitz3d_soloud\freeimage\FreeImage.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '../../freeimage/FreeImage/PluginPNG.cpp'을(를) 컴파일하는 중)
+  
+  PluginPNM.cpp
+D:\Game\OneDayCode\blitz3d_soloud\freeimage\FreeImage\PluginPNM.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+D:\Game\OneDayCode\blitz3d_soloud\freeimage\FreeImage.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '../../freeimage/FreeImage/PluginPNM.cpp'을(를) 컴파일하는 중)
+  
+  PluginPSD.cpp
+D:\Game\OneDayCode\blitz3d_soloud\freeimage\FreeImage.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '../../freeimage/FreeImage/PluginPSD.cpp'을(를) 컴파일하는 중)
+  
+  PluginRAS.cpp
+D:\Game\OneDayCode\blitz3d_soloud\freeimage\FreeImage\PluginRAS.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+D:\Game\OneDayCode\blitz3d_soloud\freeimage\FreeImage.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '../../freeimage/FreeImage/PluginRAS.cpp'을(를) 컴파일하는 중)
+  
+  PluginTARGA.cpp
+D:\Game\OneDayCode\blitz3d_soloud\freeimage\FreeImage.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '../../freeimage/FreeImage/PluginTARGA.cpp'을(를) 컴파일하는 중)
+  
+  PluginTIFF.cpp
+D:\Game\OneDayCode\blitz3d_soloud\freeimage\FreeImage\PluginTIFF.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+D:\Game\OneDayCode\blitz3d_soloud\freeimage\FreeImage.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '../../freeimage/FreeImage/PluginTIFF.cpp'을(를) 컴파일하는 중)
+  
+  PluginWBMP.cpp
+D:\Game\OneDayCode\blitz3d_soloud\freeimage\FreeImage\PluginWBMP.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+D:\Game\OneDayCode\blitz3d_soloud\freeimage\FreeImage.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '../../freeimage/FreeImage/PluginWBMP.cpp'을(를) 컴파일하는 중)
+  
+  WuQuantizer.cpp
+D:\Game\OneDayCode\blitz3d_soloud\freeimage\FreeImage\WuQuantizer.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+D:\Game\OneDayCode\blitz3d_soloud\freeimage\Quantizers.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '../../freeimage/FreeImage/WuQuantizer.cpp'을(를) 컴파일하는 중)
+  
+D:\Game\OneDayCode\blitz3d_soloud\freeimage\FreeImage.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '../../freeimage/FreeImage/WuQuantizer.cpp'을(를) 컴파일하는 중)
+  
+  코드를 생성하고 있습니다...
+  jcapimin.c
+  jcapistd.c
+  jccoefct.c
+  jccolor.c
+  jcdctmgr.c
+  jchuff.c
+  jcinit.c
+  jcmainct.c
+  jcmarker.c
+  jcmaster.c
+  jcomapi.c
+  jcparam.c
+  jcphuff.c
+  jcprepct.c
+  jcsample.c
+  jctrans.c
+  jdapimin.c
+  jdapistd.c
+  jdatadst.c
+  jdatasrc.c
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  jdcoefct.c
+  jdcolor.c
+  jddctmgr.c
+  jdhuff.c
+  jdinput.c
+  jdmainct.c
+  jdmarker.c
+  jdmaster.c
+  jdmerge.c
+  jdphuff.c
+  jdpostct.c
+  jdsample.c
+  jdtrans.c
+  jerror.c
+  jfdctflt.c
+  jfdctfst.c
+  jfdctint.c
+  jidctflt.c
+  jidctfst.c
+  jidctint.c
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  jidctred.c
+  jmemmgr.c
+  jmemnobs.c
+  jquant1.c
+  jquant2.c
+  jutils.c
+  png.c
+  pngerror.c
+  pnggccrd.c
+  pngget.c
+  pngmem.c
+  pngpread.c
+  pngread.c
+  pngrio.c
+  pngrtran.c
+  pngrutil.c
+  pngset.c
+  pngtest.c
+  pngtrans.c
+  pngvcrd.c
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  pngwio.c
+  pngwrite.c
+  pngwtran.c
+  pngwutil.c
+  adler32.c
+  compress.c
+  crc32.c
+  deflate.c
+  gzio.c
+  infblock.c
+  infcodes.c
+  inffast.c
+  inflate.c
+  inftrees.c
+  infutil.c
+  trees.c
+  uncompr.c
+  zutil.c
+  코드를 생성하고 있습니다...
+  freeimage.vcxproj -> D:\Game\OneDayCode\blitz3d_soloud\cmake-build-release\freeimage\Release\freeimage.lib

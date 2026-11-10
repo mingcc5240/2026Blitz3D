@@ -1,0 +1,40 @@
+﻿  Building Custom Rule D:/Game/OneDayCode/blitz3d_soloud/blitz3D/CMakeLists.txt
+  animation.cpp
+  animator.cpp
+  brush.cpp
+  cachedtexture.cpp
+  camera.cpp
+  collision.cpp
+  entity.cpp
+  frustum.cpp
+  geom.cpp
+  light.cpp
+  listener.cpp
+  loader_3ds.cpp
+  loader_b3d.cpp
+  loader_x.cpp
+  md2model.cpp
+  md2norms.cpp
+  md2rep.cpp
+  meshcollider.cpp
+  meshloader.cpp
+  meshmodel.cpp
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  meshutil.cpp
+  mirror.cpp
+  model.cpp
+  object.cpp
+  pivot.cpp
+  planemodel.cpp
+  q3bspmodel.cpp
+  q3bsprep.cpp
+  sprite.cpp
+  std.cpp
+  surface.cpp
+  terrain.cpp
+  terrainrep.cpp
+  texture.cpp
+  world.cpp
+  코드를 생성하고 있습니다...
+  blitz3d.vcxproj -> D:\Game\OneDayCode\blitz3d_soloud\cmake-build-release\blitz3D\Release\blitz3d.lib

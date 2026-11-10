@@ -1,0 +1,22 @@
+{
+	"InstallScripts" : 
+	[
+		"D:/Game/OneDayCode/blitz3d_soloud/cmake-build-release/cmake_install.cmake",
+		"D:/Game/OneDayCode/blitz3d_soloud/cmake-build-release/config/cmake_install.cmake",
+		"D:/Game/OneDayCode/blitz3d_soloud/cmake-build-release/stdutil/cmake_install.cmake",
+		"D:/Game/OneDayCode/blitz3d_soloud/cmake-build-release/compiler/cmake_install.cmake",
+		"D:/Game/OneDayCode/blitz3d_soloud/cmake-build-release/blitz/cmake_install.cmake",
+		"D:/Game/OneDayCode/blitz3d_soloud/cmake-build-release/linker/cmake_install.cmake",
+		"D:/Game/OneDayCode/blitz3d_soloud/cmake-build-release/linker_dll/cmake_install.cmake",
+		"D:/Game/OneDayCode/blitz3d_soloud/cmake-build-release/debugger/cmake_install.cmake",
+		"D:/Game/OneDayCode/blitz3d_soloud/cmake-build-release/blitzide/cmake_install.cmake",
+		"D:/Game/OneDayCode/blitz3d_soloud/cmake-build-release/gxruntime/cmake_install.cmake",
+		"D:/Game/OneDayCode/blitz3d_soloud/cmake-build-release/bbruntime/cmake_install.cmake",
+		"D:/Game/OneDayCode/blitz3d_soloud/cmake-build-release/bbruntime_dll/cmake_install.cmake",
+		"D:/Game/OneDayCode/blitz3d_soloud/cmake-build-release/bblaunch/cmake_install.cmake",
+		"D:/Game/OneDayCode/blitz3d_soloud/cmake-build-release/freeimage/cmake_install.cmake",
+		"D:/Game/OneDayCode/blitz3d_soloud/cmake-build-release/blitz3D/cmake_install.cmake",
+		"D:/Game/OneDayCode/blitz3d_soloud/cmake-build-release/soloud/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

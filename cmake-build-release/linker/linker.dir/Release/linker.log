@@ -1,0 +1,6 @@
+﻿  Building Custom Rule D:/Game/OneDayCode/blitz3d_soloud/linker/CMakeLists.txt
+  image_util.cpp
+  linker.cpp
+  std.cpp
+  코드를 생성하고 있습니다...
+  linker.vcxproj -> D:\Game\OneDayCode\blitz3d_soloud\cmake-build-release\linker\Release\linker.lib
